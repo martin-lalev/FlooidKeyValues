@@ -4,7 +4,7 @@ import PackageDescription
 import CompilerPluginSupport
 
 let package = Package(
-    name: "DataStorage",
+    name: "FlooidKeyValue",
     platforms: [.iOS(.v16), .macOS(.v10_15)],
     products: [
         .library(

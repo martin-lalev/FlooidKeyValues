@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import DandaniaDataStorageService
+import FlooidKeyValueStorageService
 
 public func UserDefaultsStorage(userDefaults: UserDefaults) -> KeyValueStorageService {
     UserDefaultsStorageClient(userDefaults: userDefaults)

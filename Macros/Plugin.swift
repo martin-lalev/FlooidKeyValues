@@ -1,6 +1,5 @@
 //
 //  MockClient.swift
-//  DandaniaMockServer
 //
 //  Created by Martin Lalev on 4.07.20.
 //  Copyright © 2020 Martin Lalev. All rights reserved.

@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import DandaniaDataStorageService
+import FlooidKeyValueStorageService
 
 public func KeychainStorage(serviceName: String, accessGroup: String?) -> KeyValueStorageService {
     KeychainStorageClient(serviceName: serviceName, accessGroup: accessGroup)
